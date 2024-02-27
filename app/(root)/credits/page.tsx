@@ -1,9 +1,9 @@
 import React from 'react'
 
-export const CreditPage = () => {
+const CreditPage = () => {
   return (
     <div>CreditPage</div>
   )
 }
 
-export default  CreditPage 
+export default CreditPage

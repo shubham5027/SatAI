@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const UpdateTransformationPage = () => {
+const UpdateTransformationPage = () => {
   return (
     <div>UpdateTransformationPage</div>
   )
